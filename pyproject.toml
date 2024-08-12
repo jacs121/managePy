@@ -1,0 +1,18 @@
+[project]
+name = "managePy"
+version = "0.0.1"
+authors = [
+  { name="jacs121 (nitzan soriano)", email="nitzansoriano1@gmail.com"},
+]
+description = "this tool has a lot of decorator and functions for managing or restricting other functions for unique purpose"
+readme = "README.md"
+requires-python = ">=3.12.2"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/jacs121/managePy"
+Issues = "https://github.com/jacs121/managePy/issues"
